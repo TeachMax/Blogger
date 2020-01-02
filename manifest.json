@@ -1,53 +1,52 @@
 {
-  "name": "CSSMOZ - Web Designer And Developer",
-  "short_name": "CSSMOZ ",
-  "description": "CSS Moz is blogger website for sharing web design and development particles to all. Get tips and tricks and stay in the know.",
-  "lang": "en-US",
-  "start_url": "https://cssmoz.blogspot.com/",
+  "name": "Islam4life24 Blog  ",
+  "short_name": "Islam4life24 ",
+  "theme_color": "rgba(205,42,53,0.95)",
+  "background_color": "rgba(241,241,241,0.01)",
   "display": "standalone",
-  "theme_color": "#f24a4a",
+  "Scope": "https://blog.islam4life24.xyz/",
+  "start_url": "https://blog.islam4life24.xyz/",
   "icons": [
     {
-      "src": "https://1.bp.blogspot.com/-A_uFVle1rYo/Xg0AZbG4rOI/AAAAAAAAAdU/XEBrLDjk_kk-uyUBg_jaVmFKmDm8XOQcQCLcBGAsYHQ/s1600/css.png",
-      "sizes": "48x48",
-      "type": "image/png"
-    },
-    {
-      "src": "https://1.bp.blogspot.com/-A_uFVle1rYo/Xg0AZbG4rOI/AAAAAAAAAdU/XEBrLDjk_kk-uyUBg_jaVmFKmDm8XOQcQCLcBGAsYHQ/s1600/css.png",
+      "src": "https://1.bp.blogspot.com/-7tSWXHv5Z9I/Xg5GxmzQ9FI/AAAAAAAAAAo/ocUyGDklXTArEBTfonsq9ItY3YRA-X9UQCLcBGAsYHQ/s1600/icon-72x72.png",
       "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "https://1.bp.blogspot.com/-A_uFVle1rYo/Xg0AZbG4rOI/AAAAAAAAAdU/XEBrLDjk_kk-uyUBg_jaVmFKmDm8XOQcQCLcBGAsYHQ/s1600/css.png",
+      "src": "https://1.bp.blogspot.com/-qGJx2V0Xgq8/Xg5GwLUApFI/AAAAAAAAAAk/4RNRnlRhitQq0H7ymlUNeiLGWrfpm4sOQCLcBGAsYHQ/s1600/icon-96x96.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "https://1.bp.blogspot.com/-A_uFVle1rYo/Xg0AZbG4rOI/AAAAAAAAAdU/XEBrLDjk_kk-uyUBg_jaVmFKmDm8XOQcQCLcBGAsYHQ/s1600/css.png",
+      "src": "https://1.bp.blogspot.com/-TxxfQe24e9c/Xg5GuUrVoYI/AAAAAAAAAAg/PNMsnunoOBYJw330sFsyyV6wLLYRHVTdACLcBGAsYHQ/s1600/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-F9IluyXiwMk/Xg5GtDTPGFI/AAAAAAAAAAc/2ErJHHQJJscAupI5Nnt1gD-0ZStJu5S2wCLcBGAsYHQ/s1600/icon-144x144.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "https://1.bp.blogspot.com/-A_uFVle1rYo/Xg0AZbG4rOI/AAAAAAAAAdU/XEBrLDjk_kk-uyUBg_jaVmFKmDm8XOQcQCLcBGAsYHQ/s1600/css.png",
-      "sizes": "168x168",
+      "src": "https://1.bp.blogspot.com/-1XsYetwS9qs/Xg5Gr16AcgI/AAAAAAAAAAY/D6Mek7YorCI3-GCBuuWYadkgA1eosbzXQCLcBGAsYHQ/s1600/icon-152x152.png",
+      "sizes": "152x152",
       "type": "image/png"
     },
     {
-      "src": "https://1.bp.blogspot.com/-A_uFVle1rYo/Xg0AZbG4rOI/AAAAAAAAAdU/XEBrLDjk_kk-uyUBg_jaVmFKmDm8XOQcQCLcBGAsYHQ/s1600/css.png",
+      "src": "https://1.bp.blogspot.com/-OKSbi5BA5IA/Xg5GnT_8whI/AAAAAAAAAAQ/tb_RoaQWjpc7tq4RCldV2lPPiL_zwrEwQCLcBGAsYHQ/s1600/icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://1.bp.blogspot.com/-A_uFVle1rYo/Xg0AZbG4rOI/AAAAAAAAAdU/XEBrLDjk_kk-uyUBg_jaVmFKmDm8XOQcQCLcBGAsYHQ/s1600/css.png",
+      "src": "https://1.bp.blogspot.com/-5bppSrhFFUs/Xg5GpSynb-I/AAAAAAAAAAU/13NMLhCeqM829Q0__AajFbs1H1LoHRQlwCLcBGAsYHQ/s1600/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-5bppSrhFFUs/Xg5GpSynb-I/AAAAAAAAAAU/13NMLhCeqM829Q0__AajFbs1H1LoHRQlwCLcBGAsYHQ/s1600/icon-384x384.png",
       "sizes": "512x512",
       "type": "image/png"
     }
   ],
-  "screenshots": [
-    {
-      "src": "https://1.bp.blogspot.com/-A_uFVle1rYo/Xg0AZbG4rOI/AAAAAAAAAdU/XEBrLDjk_kk-uyUBg_jaVmFKmDm8XOQcQCLcBGAsYHQ/s1600/css.png",
-      "sizes": "1280x920",
-      "type": "image/png"
-    }
-  ]
+  "splash_pages": null
 }
